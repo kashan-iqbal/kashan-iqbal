@@ -1,45 +1,46 @@
-# 💻 MERN Stack Developer
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Farzeen+Ali+👨🏻‍💻;" />
+</h1>
 
-![MERN Stack](https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge&logo=react)
+<h2 align="center">A Passionate Software Engineer & YouTuber From Pakistan💻🎥
 
-## 🚀 About Me
+</h2>
 
-Hi there! I'm a **MERN Stack Developer** with **3+ years** of experience in building scalable and high-performance web applications. I specialize in designing, developing, and deploying full-stack applications using **MongoDB, Express.js, React.js, and Node.js**.
 
-### **🔧 Tech Stack & Tools**
+<div align="center"> 
+ 🌱 I'm Farzeen Ali – An innovative Software Engineer, specializing in Full Stack Web & Mobile Application Development and DevOps Engineering. 🚀
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+With expertise in cutting-edge technologies like React.js, React Native, Next.js 15, Angular 19, Firebase, Node.js, Express.js, MongoDB, and more, I craft sleek, high-performing web and mobile applications tailored to user needs.
 
-### **🌟 Key Skills**
-- Full-stack web development using **MERN**
-- RESTful API & GraphQL development
-- UI/UX development with **Tailwind CSS** & **ShadCN**
-- Authentication (JWT, OAuth, Firebase)
-- Deployment & DevOps (Docker, Vercel, Netlify, AWS)
-- Database management (MongoDB, PostgreSQL, MySQL)
-- State management (Redux, Zustand, React Query)
+In DevOps, I utilize tools like Git 🐙, Docker 🐳, and Kubernetes ☸️, along with cloud platforms such as AWS ☁️ and Azure 🔵 to streamline development processes and enhance deployment efficiency.
 
-### **📌 Featured Projects**
+🎥 I'm also the creator of <a href="https://www.youtube.com/@TheTechzeen">The Techzeen</a> – a YouTube channel offering concise, beginner-friendly programming tutorials in Urdu/Hindi. Whether you're a student, professional, or tech enthusiast, my content empowers you to level up your coding skills with ease.⚡  
 
-🔹 **Project Name 1** - A full-stack e-commerce web app with payment integration. 
-🔹 **Project Name 2** - A real-time chat application using Socket.io.
-🔹 **Project Name 3** - A Next.js-based portfolio website with server-side rendering.
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:farzeenaliarif786@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+    <a href="https://www.youtube.com/@TheTechzeen" target="_blank">
+     <img src="https://img.shields.io/badge/YouTube-D71313?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/farzeen-ali-533479204" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
-👉 **[View My Projects](#)**
+ <hr/>
+ 
+<h2 align="center">🚀💥 Tools & Technologies 💥🚀</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,angular,javascript,typescript,express,nodejs,vscode,github,tailwind,git,linux,docker,kubernetes,gitlab,azure" />
+    <img src="https://skillicons.dev/icons?i=css,bootstrap,supabase,html,firebase,mongodb,nextjs,mysql,php,laravel,jenkins,terraform,aws,ansible,grafana" /><br>
+</div>
 
-### **📬 Let's Connect!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithub)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-
----
-
-💡 **Passionate about building scalable, user-friendly, and high-performance applications. Open to collaborations and freelance work!**
+<br/>
+<hr/>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farzeen-ali&hide_progress=true&theme=midnight-purple) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farzeen-ali&show_icons=true&theme=midnight-purple) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farzeen-ali&layout=compact&theme=midnight-purple) -->
