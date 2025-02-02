@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Farzeen+Ali+👨🏻‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Kashan+Iqbal+👨🏻‍💻;" />
 </h1>
 
 <h2 align="center">A Passionate Software Engineer From Pakistan💻🎥
@@ -17,7 +17,7 @@ In DevOps, I utilize tools like Git 🐙, Docker 🐳, and Kubernetes ☸️, al
  </div>
  
 <div align="center"> 
-  <a href="kashan.tech.io@gmail.com">
+  <a href="mailto:kashan.tech.io@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="[https://www.linkedin.com/in/farzeen-ali-533479204](https://www.linkedin.com/in/kashan-iqbal-2b051a24a/)" >
