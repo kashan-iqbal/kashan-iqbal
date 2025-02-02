@@ -2,30 +2,25 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Farzeen+Ali+👨🏻‍💻;" />
 </h1>
 
-<h2 align="center">A Passionate Software Engineer & YouTuber From Pakistan💻🎥
+<h2 align="center">A Passionate Software Engineer From Pakistan💻🎥
 
 </h2>
 
 
 <div align="center"> 
- 🌱 I'm Farzeen Ali – An innovative Software Engineer, specializing in Full Stack Web & Mobile Application Development and DevOps Engineering. 🚀
+ 🌱 I'm Kashan iqbal – An innovative Software Engineer, specializing in Full Stack Web and DevOps Engineering. 🚀
 
-With expertise in cutting-edge technologies like React.js, React Native, Next.js 15, Angular 19, Firebase, Node.js, Express.js, MongoDB, and more, I craft sleek, high-performing web and mobile applications tailored to user needs.
+With expertise in cutting-edge technologies like React.js Next.js 15, Firebase, Node.js, Express.js, MongoDB, and more, I craft sleek, high-performing web applications tailored to user needs.
 
-In DevOps, I utilize tools like Git 🐙, Docker 🐳, and Kubernetes ☸️, along with cloud platforms such as AWS ☁️ and Azure 🔵 to streamline development processes and enhance deployment efficiency.
-
-🎥 I'm also the creator of <a href="https://www.youtube.com/@TheTechzeen">The Techzeen</a> – a YouTube channel offering concise, beginner-friendly programming tutorials in Urdu/Hindi. Whether you're a student, professional, or tech enthusiast, my content empowers you to level up your coding skills with ease.⚡  
+In DevOps, I utilize tools like Git 🐙, Docker 🐳, and Kubernetes ☸️, along with cloud platforms such as AWS ☁️ and Azure 🔵 to streamline development processes and enhance deployment efficiency. 
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:farzeenaliarif786@gmail.com">
+  <a href="kashan.tech.io@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-    <a href="https://www.youtube.com/@TheTechzeen" target="_blank">
-     <img src="https://img.shields.io/badge/YouTube-D71313?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/farzeen-ali-533479204" >
+  <a href="[https://www.linkedin.com/in/farzeen-ali-533479204](https://www.linkedin.com/in/kashan-iqbal-2b051a24a/)" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
