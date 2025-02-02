@@ -20,7 +20,7 @@ In DevOps, I utilize tools like Git 🐙, Docker 🐳, and Kubernetes ☸️, al
   <a href="mailto:kashan.tech.io@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/farzeen-ali-533479204](https://www.linkedin.com/in/kashan-iqbal-2b051a24a/)" >
+  <a href="https://www.linkedin.com/in/kashan-iqbal-2b051a24a/" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
